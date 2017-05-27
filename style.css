@@ -1,0 +1,71 @@
+
+/*Navbar styling*/
+.navbar{
+	padding: 5px;
+}
+
+.navbar .navbar-brand{
+	font-size: 1.5em;
+	font-weight: 900;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	font-size: 1.2em;
+}
+
+
+
+#navbar-toggle collapsed{
+	color:white;
+}
+#top{
+	text-align: center;
+	padding: 250px;
+}
+
+header{
+	background-image: url(2.jpg);
+	background-size: cover;
+	font-family: Lato;
+	background-position: center;
+
+}
+.content{
+	text-align: center;
+	padding: center;
+}
+
+h1{
+	color: black;
+	font-weight: 500;
+	font-size: 4.0em;
+}
+h5{
+	color: black;
+}
+html{
+	height: 100%;
+}
+hr{
+	width: 300px;
+	color: black;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+#about{
+	text-align: center;
+	padding:65px; 
+}
+
+#portfolio{
+	text-align: center;
+	padding:50px; 
+
+}
+
+#contact{
+	text-align: center;
+	padding:250px; 
+
+}
